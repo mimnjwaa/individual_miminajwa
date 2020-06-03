@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: times-new roman;
+  background-color: lightpink;
+}
+
+header {
+  width: 100%;
+  height: 100vh;
+}
+
+.image img {
+	width: 20%;
+	margin: 20px;
+	float: left;
+
+}
+.image1 img {
+	width: 20%
+	margin:20px;
+	float: center;
+}
